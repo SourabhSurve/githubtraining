@@ -5,3 +5,6 @@ Emoji
 Type option
 colors
 vibrant
+payment option
+send money
+received money
